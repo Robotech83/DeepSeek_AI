@@ -1,6 +1,6 @@
-# DeepSeek_AI Voice Assistant
+# DeepSeek_AI Voice Assistant 
 
-Overview
+Overview (Work in Progess)
 
 This is a simple voice assistant script that can perform various tasks such as:
 
